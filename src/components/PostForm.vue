@@ -19,7 +19,6 @@
       name="description"
       type="text"
       placeholder="Описание"
-      :label="Описание"
     />
 
     <my-button class="createButton" @click="createPost">Создать</my-button>
